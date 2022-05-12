@@ -1,0 +1,24 @@
+body {
+    margin: 0;
+}
+header {
+    background-color: aliceblue;
+    padding: 20px 0;
+}
+header ul {
+    display: flex;
+    max-width: 1140px;
+    margin: 0 auto;
+    list-style-type: none;
+    padding: 0;
+    justify-content: center;
+}
+
+header ul li {
+    padding: 0 20px;
+}
+
+main {
+    width: 1140px;
+    margin: auto;
+}
